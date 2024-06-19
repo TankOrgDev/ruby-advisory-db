@@ -4,6 +4,7 @@ gem 'rake'
 gem 'faraday', '~> 2.0'
 gem 'kwalify', '~> 0.1'
 gem 'rspec',   '~> 3.0'
+gem 'devise', '4.6.2'  
 
 group :development do
   gem 'pry'
